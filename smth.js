@@ -1,1 +1,1 @@
-console.log("Just a test file");
+console.log('Just a test file');
